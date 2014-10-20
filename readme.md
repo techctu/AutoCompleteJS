@@ -16,4 +16,9 @@ Will trigger its magic in js files and js scopes (eg in a script tag of an HTML 
 
 This package is based in an idea from <http://www.eladyarkoni.com/2012/09/sublime-text-auto-complete-plugin.html> with performance improvements from  https://github.com/eladyarkoni/MySignaturePlugin/pull/7 and packed here for better openness
 
+# Furter improvements
+
+- Parse files with something like this: http://esprima.org/ instead of using RegExp
+
+
   [Sublime Text]: http://www.sublimetext.com/3
